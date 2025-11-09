@@ -8,7 +8,7 @@ export default function Hero() {
 
       <p className=" text-lg text-black text-center">
         A seamless valet experience with instant digital tickets, cashless
-        payments,and secure car retrieval — all powered by a single QR code
+        payments,<br></br>and secure car retrieval — all powered by a single QR code
       </p>
 
       <div>
